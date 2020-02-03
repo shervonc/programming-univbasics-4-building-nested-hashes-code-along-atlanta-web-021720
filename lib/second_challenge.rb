@@ -12,7 +12,9 @@ def second_challenge
       :heroine => {},
       :herione_friends => []
 
-      }}
+      }
+    
+  }
 
   
 end
